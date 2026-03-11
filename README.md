@@ -1,32 +1,25 @@
-# Signal-Analysis-Vol-I
-Laboratorios en python y Octave
-### Laboratorio Vivo: Simulaciones en Python y Octave
+# Laboratorios de Signal Analysis Vol I
 
-Bienvenido al repositorio oficial de recursos interactivos del libro **"Análisis de Señales y Sistemas Volumen I"**. Este espacio ha sido diseñado para que estudiantes e investigadores puedan ejecutar el código del texto original sin necesidad de instalar software localmente, utilizando la potencia de la nube.
+Bienvenido al repositorio oficial de laboratorios interactivos del libro **"Signal Analysis Vol I"**. 
 
----
-## 🛠️ Instrucciones para el Lector
+Este espacio ha sido diseñado para que los conceptos teóricos cobren vida. A través de nuestros **Laboratorios Vivos**, podrás ajustar parámetros en tiempo real, visualizar fenómenos físicos y entender la naturaleza de las señales y los sistemas.
 
-1. **Escaneo de QR:** Cada sección del libro físico cuenta con un código QR que te redirigirá a este repositorio o directamente al notebook correspondiente.
-2. **Entorno Colab:** Al abrir un notebook, asegúrate de iniciar sesión con tu cuenta de Google.
-3. **Ejecución:** Puedes ejecutar cada celda de código presionando `Shift + Enter`. 
-4. **Experimentación:** Te animamos a modificar variables como el `SNR_dB` o la frecuencia de muestreo para observar los cambios en tiempo real.
+## Índice de Laboratorios
 
-## 📊 Requisitos Técnicos
-No se requiere hardware especializado. Los notebooks incluyen celdas automáticas para:
-- Instalación de `octave_kernel` (para usuarios de Octave).
-- Importación de librerías científicas (`NumPy`, `SciPy`, `Matplotlib`).
----
-**Autor:** [Eliecer Cundir]    
-*Material complementario para el curso de Análisis de Señales en Telecomunicaciones.*
-
-## 🚀 Acceso Directo a Laboratorios (Google Colab)
-
-Haz clic en los botones de abajo para abrir los experimentos interactivos directamente en tu navegador. 
-
-### Capítulo 1: Fundamentos y Taxonomía
-| Experimento | Python (Colab) | Octave (Colab) |
-| **1.3 Modelado de Ruido AWGN (Telecom)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/capitulo_1/1_3_Laboratorio_AWGN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/capitulo_1/1_3_AWGN_Octave.ipynb) |
+| Capítulo | Tema | Descripción | Laboratorio Interactivo |
+| :--- | :--- | :--- | :--- |
+| **Cap 1** | Ruido AWGN | Análisis de ruido térmico en señales binarias. | [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_1/Lab_1_AWGN_Python.ipynb) |
+| **Cap 2** | Sistemas LTI | Efectos de linealidad y saturación en amplificadores RF. | [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_2/Lab_2_LTI_RF.ipynb) |
 
 ---
 
+## ¿Cómo utilizar estos laboratorios?
+
+1. **Escanea el código QR:** Cada sección del libro incluye un código QR que te lleva directamente al laboratorio correspondiente.
+2. **Entorno:** Los archivos se abren en **Google Colab**. No necesitas instalar nada en tu computadora.
+3. **Interactividad:** Busca el **Panel de Control** con deslizadores (sliders) para modificar las variables del sistema y ver resultados instantáneos.
+
+*Nota: Asegúrate de tener una cuenta de Google activa para guardar tus propios cambios si decides experimentar con el código.*
+
+---
+*Desarrollado para el libro "Signal Analysis Vol I" © 2026*
