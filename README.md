@@ -10,7 +10,7 @@ Este espacio ha sido diseñado para que los conceptos teóricos cobren vida. A t
 | :--- | :--- | :--- | :--- |
 | **Cap 1** | Ruido AWGN | Análisis de ruido térmico en señales binarias. | [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/Lab_1_AWGN_Python.ipynb) |
 | **Cap 2** | Sistemas LTI | Efectos de linealidad y saturación en amplificadores RF. | [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_2/Lab_2_LTI.ipynb) |
-| **Cap 3** | La Integral de Convolución: El Eco del Sistema| [Abrir en Colab]() |
+| **Cap 3** | La Integral de Convolución|La Interferencia Intersimbólica - ISI| [Abrir en Colab]() |
 ---
 
 ## ¿Cómo utilizar estos laboratorios?
