@@ -13,6 +13,7 @@ Este espacio ha sido diseñado para que los conceptos teóricos cobren vida. A t
 | **Cap 3** | La Integral de Convolución|La Interferencia Intersimbólica - ISI| [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_3/Lab_3_conv.ipynb) |
 | **Cap 4** | Series de Fourier|Fenómeno de Gibbs| [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_4/lab_4_gibbs.ipynb) |
 | **Cap 5** | Series de Fourier|Fenómeno de Gibbs| [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_5/lab_5_ctft.ipynb) |
+| **Cap 6** | Función de Transferencia|Filtrado| [Abrir en Colab](https://colab.research.google.com/github/ecundir/Signal-Analysis-Vol-I/blob/main/capitulo_6/lab_6_filter.ipynb) |
 ---
 
 ## ¿Cómo utilizar estos laboratorios?
